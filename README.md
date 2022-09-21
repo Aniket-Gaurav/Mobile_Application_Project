@@ -24,4 +24,6 @@ The app allows you to create custom labels for your task lists and find the stat
 
 Android To-Do List provides a clean and simple interface that makes it easy to keep track of your tasks and projects.
 
-https://drive.google.com/file/d/1ZyrGuEWuzkL9hZn-ITP2oTlng6F0_v0w/view?usp=sharing
+
+https://user-images.githubusercontent.com/83816799/191451368-e8f07da5-a3a6-49f8-a07f-1174a247c1d7.mp4
+
